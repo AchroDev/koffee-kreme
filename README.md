@@ -1,16 +1,62 @@
-# koffee-kreme README
+<a name="readme-top"></a>
+# README.md
 
-## Working with Markdown
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/AchroDev/koffee-kreme">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+<h3 align="center"> :coffee: Koffee Kreme</h3>
 
-## For more information
+  <p align="center">
+    An elegant and "warm" coffee styled theme for VSCode.
+    <br />
+  </p>
+</div>
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<!-- ABOUT THE PROJECT -->
+## About The Project
+![MadeForBadge](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+<!-- uncomment this when you have a product screenshot.
+![Koffee Kreme Screen Shot][product-screenshot]](https://github.com/AchroDev/koffee-kreme/images/screenshot.png) -->
+
+<p>
+    This theme was developed to fit my want/need for a "coffee" styled theme that is not REALLY dark or bright like most themes are. Please feel free to download it and let me know what you think or if you have any particular issues with it. I'm always open to constructive criticism and will always welcome new ideas.
+</p>
+
+
+<!-- Uncomment the line below if you need the "back up to top" button. -->
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+
+
+<!-- CONTACT -->
+## Contact
+- Please report any issues [here](https://github.com/AchroDev/koffee-kreme/issues) on GitHub.
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [othneildrew's README template](https://github.com/othneildrew/Best-README-Template)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/AchroDev/AchroDev.svg?style=for-the-badge
+[contributors-url]: https://github.com/AchroDev/koffee-kreme/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/AchroDev/AchroDev.svg?style=for-the-badge
+[forks-url]: https://github.com/AchroDev/koffee-kreme/network/members
+[stars-shield]: https://img.shields.io/github/stars/AchroDev/AchroDev.svg?style=for-the-badge
+[stars-url]: https://github.com/AchroDev/AchroDev/stargazers
+[issues-shield]: https://img.shields.io/github/issues/AchroDev/AchroDev.svg?style=for-the-badge
+[issues-url]: https://github.com/AchroDev/AchroDev/issues
+[license-shield]: https://img.shields.io/github/license/AchroDev/AchroDev.svg?style=for-the-badge
+[license-url]: https://github.com/AchroDev/koffee-kreme/blob/main/LICENSE.txt
 
 **Enjoy!**

@@ -2,8 +2,10 @@
 
 All notable changes to the "koffee-kreme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
 ## [Unreleased]
 
-- Initial release
+- TODO: Add plans for updates here
+
+## Changed
+
+- TODO: Add changes here
