@@ -1,0 +1,21 @@
+{
+  "name": "koffee-kreme",
+  "displayName": "Koffee Kreme",
+  "description": "A coffee inspired, light contrast IDE theme for VSCode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Koffee Kreme",
+        "uiTheme": "vs",
+        "path": "./themes/Koffee Kreme-color-theme.json"
+      }
+    ]
+  }
+}
