@@ -14,7 +14,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center"> Koffee Kreme </h3>
+<h3 align="center"> :coffee: Koffee Kreme</h3>
 
   <p align="center">
     An elegant and cozy "coffee" styled theme for VSCode.
@@ -25,6 +25,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![MadeForBadge](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3WKVOY)
 
 ![Koffee Kreme Screen Shot](/images/screenshot.png)
 
@@ -41,6 +42,17 @@
 ## Contact
 - Please report any issues [here](https://github.com/AchroDev/koffee-kreme/issues) on GitHub.
 
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [othneildrew's README template](https://github.com/othneildrew/Best-README-Template)
+* [Color Palette](https://www.color-hex.com/color-palette/30023)
+* [Color Variations #1](https://colorkit.co/color/6f4e37/)
+* [Color Variations #2](https://colorkit.co/color/ece0d1/)
+* [Color Variations #3](https://colorkit.co/color/634832/)
+* [Color Variations #4](https://colorkit.co/color/dbc1ac/)
+* [Color Variations #5](https://colorkit.co/color/967259/)
+* [Created with Theme Studio](https://themes.vscode.one/theme/Achro/0EdEmp6f)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
