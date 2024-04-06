@@ -25,7 +25,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 ![MadeForBadge](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3WKVOY)
+[![ko-fi](https://storage.ko-fi.com/cdn/kofi2.png?)](https://ko-fi.com/R6R3WKVOY)
 
 ![Koffee Kreme Screen Shot](/images/screenshot.png)
 
