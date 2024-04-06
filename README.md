@@ -27,7 +27,7 @@
 ![MadeForBadge](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3WKVOY)
 
-[![Koffee Kreme Screen Shot][product-screenshot]](https://github.com/AchroDev/koffee-kreme/images/screenshot.png)
+![Koffee Kreme Screen Shot][product-screenshot](https://github.com/AchroDev/koffee-kreme/images/screenshot.png)
 
 <p>
     This theme was developed to fit my want/need for a "coffee" styled theme that is not REALLY dark or bright like most themes are. I consider this a hybrid theme as it contains dark and light (but not bright) color theory. Please feel free to download it and let me know what you think or if you have any particular issues with it. I'm always open to constructive criticism and will always welcome new ideas.
