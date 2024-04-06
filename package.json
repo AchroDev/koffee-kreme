@@ -1,20 +1,55 @@
 {
   "name": "koffee-kreme",
   "displayName": "Koffee Kreme",
-  "description": "A coffee inspired, light contrast IDE theme for VSCode.",
+  "description": "Koffee Kreme - A coffee inspired, light/dark hybrid contrast IDE theme for VSCode.",
   "version": "0.0.1",
+  "publisher": "AchroDev",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AchroDev/koffee-kreme"
+  },
+  "homepage": "https://github.com/AchroDev/koffee-kreme/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/AchroDev/koffee-kreme/issues"
+  },
+  "keywords": [
+    "Theme",
+    "Dark Theme",
+    "Light Theme",
+    "Coffee",
+    "Coffee Theme",
+    "Koffee",
+    "Koffee Theme",
+    "Early Bird",
+    "Night owl",
+    "Kreme",
+    "Hybrid",
+    "Bean",
+    "Cozy",
+    "Easy on Eyes",
+    "Accessible Theme"
+  ],
+  "scripts": {
+    "publish": "vsce publish"
+  },
+  "galleryBanner": {
+    "color": "#dbc1ac",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.88.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "images/logo.png",
   "contributes": {
     "themes": [
       {
         "label": "Koffee Kreme",
         "uiTheme": "vs",
-        "path": "./themes/Koffee Kreme-color-theme.json"
+        "path": "./themes/koffee-kreme-color-theme.json"
       }
     ]
   }
