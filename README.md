@@ -65,6 +65,6 @@
 [issues-shield]: https://img.shields.io/github/issues/AchroDev/AchroDev.svg?style=for-the-badge
 [issues-url]: https://github.com/AchroDev/koffee-kreme/issues
 [license-shield]: https://img.shields.io/github/license/AchroDev/AchroDev.svg?style=for-the-badge
-[license-url]: https://github.com/AchroDev/koffee-kreme/blob/main/LICENSE.txt
+[license-url]: https://github.com/AchroDev/koffee-kreme/blob/master/LICENSE.txt
 
 **Enjoy!**
