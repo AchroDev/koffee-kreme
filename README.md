@@ -52,11 +52,11 @@ You have a few options on how to install a theme. I will list the most common me
 
 3. Inside VS Code use the shortcut ```ctrl+k+t``` and select "Koffee Kreme" from the list.
 
-That's it! simple right? Thanks for taking the time to check out the theme and be sure to leave a review!
+That's it! Simple right? Thanks for taking the time to check out the theme and be sure to leave a review!
 
 #### **(OPTION 3)** If you are using a third-party VS Code client such as VS Codium and do not want/have the marketplace enabled you will need to download the (VSIX) extension file from the "Resources" area on the right-side of the marketplace page VS Code Marketplace [here](https://marketplace.visualstudio.com/items?itemName=AchroDev.koffee-kreme) and follow the instructions below.
 
-1. Open CMD if on windows or your preferred shell for Mac/Linux and nagivate to where you downloaded the extenstion file ```ex.~/Downloads```.
+1. Open CMD if you are on Windows or your preferred shell/terminal for Mac/Linux and nagivate to where you downloaded the extenstion file ```ex.~/Downloads```.
 2. Enter the following command (Change the ```x.x.x``` to the current version number) ```codium --install-extension AchroDev.koffee-kreme-x.x.x.vsix```
 3. Inside VSCodium use the shortcut ```ctrl+k+t``` and select "Koffee Kreme" from the list.
 
@@ -87,8 +87,8 @@ That's it! simple right? Thanks for taking the time to check out the theme and b
 [forks-shield]: https://img.shields.io/github/forks/AchroDev/AchroDev.svg?style=for-the-badge
 [forks-url]: https://github.com/AchroDev/koffee-kreme/network/members
 [stars-shield]: https://img.shields.io/github/stars/AchroDev/AchroDev.svg?style=for-the-badge
-[stars-url]: https://github.com/AchroDev/AchroDev/stargazers
+[stars-url]: https://github.com/AchroDev/koffee-kreme/stargazers
 [issues-shield]: https://img.shields.io/github/issues/AchroDev/AchroDev.svg?style=for-the-badge
-[issues-url]: https://github.com/AchroDev/AchroDev/issues
+[issues-url]: https://github.com/AchroDev/koffee-kreme/issues
 [license-shield]: https://img.shields.io/github/license/AchroDev/AchroDev.svg?style=for-the-badge
 [license-url]: https://github.com/AchroDev/koffee-kreme/blob/main/LICENSE.txt
