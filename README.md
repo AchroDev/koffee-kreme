@@ -66,6 +66,7 @@ That's it! Simple right? Thanks for taking the time to check out the theme and b
 <!--Recommendations-->
 ## Recommendations
 - To acheive a nicer overall look, I recommend downloading the ["Developer's Theme"](https://marketplace.visualstudio.com/items?itemName=Rajeshwaran.developer-theme-dark) from [Rajeshwaren](https://github.com/Rajeshwaran2001/) and setting the "File Icon" theme and the "Product Icon" theme. This is shown in the last screenshot above.
+
 ![Developer's Theme](/images/screenshot5.png)
 
 <!-- CONTACT -->
