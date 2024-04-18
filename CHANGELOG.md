@@ -6,6 +6,9 @@ All notable changes to the "koffee-kreme" extension will be documented in this f
 
 - Add other variants of theme to suite more light or dark styles, while still having good color contrast.
 
+## [~Fixed~]
+- Fixed typos in README
+
 ## [~Updated~] ~ AchroDev 4/18/24
 The following elements color have been updated to solve visibility issues and should have been transparent from the start.
 - ```editor.selectionBackground``` was update to ```#d5b69cbd```

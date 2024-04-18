@@ -6,7 +6,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-![version](https://img.shields.io/badge/version-0.5.0-green)
+![version](https://img.shields.io/badge/version-0.6.0-green)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -53,19 +53,19 @@ You have a few options on how to install a theme. I will list the most common me
 2. **(OPTION 2)** Launch Terminal in VS Code (<code>Ctrl+Shift+`</code>), paste the following command, and press enter.
 ``` ext install AchroDev.koffee-kreme ```
 
-3. Inside VS Code use the shortcut ```ctrl+k+t``` and select "Koffee Kreme" from the list.
+3. Inside VS Code, use the shortcut ```ctrl+k+t``` and select "Koffee Kreme" from the list.
 
 That's it! Simple right? Thanks for taking the time to check out the theme and be sure to leave a review!
 
 #### **(OPTION 3)** If you are using a third-party VS Code client such as VS Codium and do not want/have the marketplace enabled you will need to download the (VSIX) extension file from the "Resources" area on the right-side of the marketplace page VS Code Marketplace [here](https://marketplace.visualstudio.com/items?itemName=AchroDev.koffee-kreme) and follow the instructions below.
 
-1. Open CMD if you are on Windows or your preferred shell/terminal for Mac/Linux and navigate to where you downloaded the extension file ```ex.~/Downloads```.
+1. Open CMD if you are on Windows (or your preferred shell/terminal for Mac/Linux) and navigate to where you downloaded the extension file ```ex.~/Downloads```.
 2. Enter the following command (Change the ```x.x.x``` to the current version number) ```codium --install-extension AchroDev.koffee-kreme-x.x.x.vsix```
 3. Inside VSCodium use the shortcut ```ctrl+k+t``` and select "Koffee Kreme" from the list.
 
 <!--Recommendations-->
 ## Recommendations
-- To acheive a nicer overall look, I recommend downloading the ["Developer's Theme"](https://marketplace.visualstudio.com/items?itemName=Rajeshwaran.developer-theme-dark) from [Rajeshwaren](https://github.com/Rajeshwaran2001/) and setting the "File Icon" theme and the "Product Icon" theme. This is shown in the last screenshot above.
+- To achieve a nicer overall look, I recommend downloading the ["Developer's Theme"](https://marketplace.visualstudio.com/items?itemName=Rajeshwaran.developer-theme-dark) from [Rajeshwaren](https://github.com/Rajeshwaran2001/) and setting the "File Icon" theme and the "Product Icon" theme. This is shown in the last screenshot above.
 
 ![Developer's Theme](/images/screenshot5.png)
 
