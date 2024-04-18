@@ -6,7 +6,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-![version](https://img.shields.io/badge/version-0.6.0-green)
+![version](https://img.shields.io/badge/version-0.7.0-green)
 
 <!-- PROJECT LOGO -->
 <br />
