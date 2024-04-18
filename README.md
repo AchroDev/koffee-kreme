@@ -32,7 +32,7 @@
 ![Koffee Kreme Screen Shot](/images/screenshot.png)
 
 <p>
-    This theme was developed to fit my want/need for a "coffee" styled theme that is not REALLY dark or bright like most themes are. I consider this a hybrid theme as it contains dark and light (but not bright) color theory. Please feel free to download it and let me know what you think or if you have any particular issues with it. I'm always open to constructive criticism and will always welcome new ideas.
+    This theme was developed to fit my want/need for a "coffee" styled theme that is not REALLY dark or bright like most themes are. I consider this a hybrid theme, as it contains dark and light (but not bright) color theory. Please feel free to download it and let me know what you think or if you have any particular issues with it. I'm always open to constructive criticism and will always welcome new ideas.
 </p>
 
 
@@ -56,7 +56,7 @@ That's it! Simple right? Thanks for taking the time to check out the theme and b
 
 #### **(OPTION 3)** If you are using a third-party VS Code client such as VS Codium and do not want/have the marketplace enabled you will need to download the (VSIX) extension file from the "Resources" area on the right-side of the marketplace page VS Code Marketplace [here](https://marketplace.visualstudio.com/items?itemName=AchroDev.koffee-kreme) and follow the instructions below.
 
-1. Open CMD if you are on Windows or your preferred shell/terminal for Mac/Linux and nagivate to where you downloaded the extenstion file ```ex.~/Downloads```.
+1. Open CMD if you are on Windows or your preferred shell/terminal for Mac/Linux and navigate to where you downloaded the extension file ```ex.~/Downloads```.
 2. Enter the following command (Change the ```x.x.x``` to the current version number) ```codium --install-extension AchroDev.koffee-kreme-x.x.x.vsix```
 3. Inside VSCodium use the shortcut ```ctrl+k+t``` and select "Koffee Kreme" from the list.
 
@@ -77,7 +77,7 @@ That's it! Simple right? Thanks for taking the time to check out the theme and b
 * [Color Variations 5](https://colorkit.co/color/967259/)
 * [Created with Theme Studio](https://themes.vscode.one/theme/Achro/0EdEmp6f)
 
-**I may have created this in Theme Studio, but please try to remember that I did not throw this together. This project took around 7-8 hours of time carefully picking colors and testing them. I do plan on releasing other variants that will update with the theme and I personally use the theme so stay tuned!**
+**I may have created this in Theme Studio, but please try to remember that I did not throw this together. This project took around 7-8 hours of time, carefully picking colors and testing them. I do plan on releasing other variants that will update with the theme and I personally use the theme so stay tuned!**
 
 **~Enjoy and let me know if you have any recommendations or issues!**
 <!-- MARKDOWN LINKS & IMAGES -->
