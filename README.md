@@ -29,7 +29,10 @@
 <a href='https://ko-fi.com/R6R3WKVOY' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
 </a>
 
-![Koffee Kreme Screen Shot](/images/screenshot.png)
+![Koffee Kreme Screen Shot 1](/images/screenshot.png)
+![Koffee Kreme Screen Shot 2](/images/screenshot2.png)
+![Koffee Kreme Screen Shot 3](/images/screenshot3.png)
+![Koffee Kreme Screen Shot 4](/images/screenshot4.png)
 
 <p>
     This theme was developed to fit my want/need for a "coffee" styled theme that is not REALLY dark or bright like most themes are. I consider this a hybrid theme, as it contains dark and light (but not bright) color theory. Please feel free to download it and let me know what you think or if you have any particular issues with it. I'm always open to constructive criticism and will always welcome new ideas.
@@ -60,6 +63,10 @@ That's it! Simple right? Thanks for taking the time to check out the theme and b
 2. Enter the following command (Change the ```x.x.x``` to the current version number) ```codium --install-extension AchroDev.koffee-kreme-x.x.x.vsix```
 3. Inside VSCodium use the shortcut ```ctrl+k+t``` and select "Koffee Kreme" from the list.
 
+<!--Recommendations-->
+## Recommendations
+- To acheive a nicer overall look, I recommend downloading the ["Developer's Theme"](https://marketplace.visualstudio.com/items?itemName=Rajeshwaran.developer-theme-dark) from [Rajeshwaren](https://github.com/Rajeshwaran2001/) and setting the "File Icon" theme and the "Product Icon" theme. This is shown in the last screenshot above.
+![Developer's Theme](/images/screenshot5.png)
 
 <!-- CONTACT -->
 ## Contact
