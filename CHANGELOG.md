@@ -10,7 +10,7 @@ All notable changes to the "koffee-kreme" extension will be documented in this f
 - ```gitDecoration.ignoredResourceForeground``` was updated to ```#d3cabf```
 - ```input.placeholderForeground``` was updated to ```#716053```
 - ```editorSuggestWidget.background``` was updated to ```#dbd0c1```
-- ```editorSuggestWidget.selectedBackground``` was updated to ```#ffedd5```
+- ```editorSuggestWidget.selectedBackground``` was updated to ```#947f63```
 
 
 ## [Fixed] ~ AchroDev 4/21/24 11:18 PM
