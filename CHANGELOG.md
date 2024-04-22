@@ -6,15 +6,25 @@ All notable changes to the "koffee-kreme" extension will be documented in this f
 
 - Add other variants of theme to suite more light or dark styles, while still having good color contrast.
 
-## [~Fixed~]
+## [~Fixed~] ~ AchroDev 4/21/24 11:06 PM
+- Fixed typos in CHANGELOG
+
+## [~Updated~] ~ AchroDev 4/21/24 10:13 PM
+- ```editorCodeLens.foreground``` was updated to ```#626262```
+- ```sideBar.background``` was updated to ```#99806b```
+- ```sideBarTitle.foreground``` was updated to ```#3d2a1c```
+- ```list.highlightForeground``` was updated to ```#735641```
+- ```input.placeholderForeground``` was updated to ```#5a5048```
+
+## [~Fixed~] ~ AchroDev
 - Fixed typos in README
 
 ## [~Updated~] ~ AchroDev 4/18/24
 The following elements color have been updated to solve visibility issues and should have been transparent from the start.
-- ```editor.selectionBackground``` was update to ```#d5b69cbd```
-- ```editor.inactiveSelectionBackground``` was update to ```#bca4917e```
-- ```editor.selectionHighlightBackground``` was update to ```#cbac94d1```
-- ```editor.rangeHighlightBorder``` was update to ```#d2c7bf66```
+- ```editor.selectionBackground``` was updated to ```#d5b69cbd```
+- ```editor.inactiveSelectionBackground``` was updated to ```#bca4917e```
+- ```editor.selectionHighlightBackground``` was updated to ```#cbac94d1```
+- ```editor.rangeHighlightBorder``` was updated to ```#d2c7bf66```
 - ```diffEditor.insertedTextBackground``` was update to ```#a5ee9448```
 - ```diffEditor.removedTextBackground``` was updated to ```#d9858358```
 - ```merge.currentHeaderBackground``` was updated to ```#a4e3d69d```
