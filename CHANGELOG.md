@@ -6,6 +6,11 @@ All notable changes to the "koffee-kreme" extension will be documented in this f
 
 - Add other variants of theme to suite more light or dark styles, while still having good color contrast.
 
+## [Updated] ~ AchroDev
+- ```gitDecoration.ignoredResourceForeground``` was updated to ```#d3cabf```
+- ```input.placeholderForeground``` was updated to ```#716053```
+
+
 ## [Fixed] ~ AchroDev 4/21/24 11:18 PM
 - Fixed all titles in CHANGELOG having the strikethrough to being normal text.
 
