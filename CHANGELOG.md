@@ -11,6 +11,7 @@ All notable changes to the "koffee-kreme" extension will be documented in this f
 - ```input.placeholderForeground``` was updated to ```#716053```
 - ```editorSuggestWidget.background``` was updated to ```#dbd0c1```
 - ```editorSuggestWidget.selectedBackground``` was updated to ```#947f63```
+- ```sideBar.background``` was updated again to ```#b69d89```
 
 
 ## [Fixed] ~ AchroDev 4/21/24 11:18 PM
